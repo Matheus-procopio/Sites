@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+:root{
+    --cor-texto: #ffffff;
+    --cor-fundo: #7A1CAC;
+    --cor-segundaria: #4B00F5;
+    --cor-vermelho: #3DC2EC;
+    --font: "Alice", serif;
+}
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: var(--font);
+}
